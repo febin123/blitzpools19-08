@@ -1131,6 +1131,10 @@ background: #fbad18;
 color:#282829;
 font-weight: bold;
 }
+.load-more a{
+  color: #282829;
+}
+
 
 @media (max-width: 702px) {
   .load-more{
